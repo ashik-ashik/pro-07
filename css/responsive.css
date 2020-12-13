@@ -1,5 +1,10 @@
 /*<!--For X-small device-->*/
 
+@media (max-width: 510px) {
+    #footer .icons li{
+        width: 15% !important;
+    }
+}
 @media (max-width: 767px) {
     .my-slider .owl-carousel .item{
         height: 220px;
